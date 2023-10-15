@@ -10,4 +10,4 @@ This maps real port `8080` into containers `80`.
 
 For further usage modify Dockerfile and/or add resources to static folder.
 
-Deploy with [jakeloud](https://github.com/notTGY/jakeloud)🚀
+Deploy with [jakeloud](https://github.com/jakeloud/jakeloud)🚀
